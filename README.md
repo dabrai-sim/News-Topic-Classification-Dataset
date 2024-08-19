@@ -4,6 +4,7 @@ This repository contains the implementation of a text classification task using 
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
+- [Dataset](#dataset)
 - [Preprocessing](#preprocessing)
 - [Vectorization Techniques](#vectorization-techniques)
 - [Machine Learning Models](#machine-learning-models)
@@ -12,6 +13,9 @@ This repository contains the implementation of a text classification task using 
 
 ## **Project Overview**
 This project aims to classify text data into predefined categories using different machine learning models. The text data undergoes several preprocessing steps, is vectorized using two techniques, and is then classified using three different models. The results are compared based on classification reports and confusion matrices.
+
+## **Dataset**
+The Link to the Dataset Used can be found here: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset 
 
 ## **Preprocessing**
 The preprocessing steps are performed using NLTK and SpaCy and include:
